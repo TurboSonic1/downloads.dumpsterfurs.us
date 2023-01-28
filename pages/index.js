@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to TurboSonic's download page" />
         <p className="description">
-          There's nothing here, yet... </code>
+          "There's nothing here, yet..."
         </p>
       </main>
 
